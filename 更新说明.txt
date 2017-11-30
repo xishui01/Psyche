@@ -1,0 +1,23 @@
+V4版修改
+添加5套刷
+5pcs-brush-set-for-face-eyes-and-lips.html
+5pcs_brush_set_for_face_eyes_and_lips.jpg
+添加购物车-面膜刷，羊毛刷，套刷，扇形刷
+超链接
+
+
+V4.1修改（格式)
+css修改
+1】css-line1300，justify修改为left（products页面文字简述页面两端对齐修改为左对齐
+2】css-line795，width参数有21.5%修改为28%（放大了products页面的布局）同时s-**.jpg的像素由276*276修改为300*300
+3】面膜刷和扇形刷的位置进行调换。详情页的顺序也跟着做了修改
+4】products页面的swipebox插件移到body末端
+5】取消放大特效，改为图片直接链接到产品详情页
+
+V4.2版修改
+修正关键词布局
+
+20170308
+V4.3版修改
+1、删除掉无用代码
+2、增加google analytics检测代码
